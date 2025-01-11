@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm ASIF KHAN</h1>
 <h3 align="center">Undergraduate Physics Student | Tech Enthusiast | Web Developer Hi! I'm an undergraduate student at Khulna University, studying Physics. I'm passionate about technology, web development, and programming. I enjoy exploring the intersection of science and technology while building cool projects and learning new skills.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifjsr&label=Profile%20views&color=0e75b6&style=flat" alt="asifjsr" /> </p>
+
 
 - 🔭 I’m currently working on **Web-development**
 
