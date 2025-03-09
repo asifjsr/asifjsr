@@ -1,5 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F74040&random=false&width=435&lines=HI+THERE%F0%9F%91%8B!+I+AM+ASIF+KHAN...)](https://git.io/typing-svg)
+
+<h1 align="center">Hi 👋, I'm ASIF KHAN</h1>
+
 <h3 align="center">Undergraduate Physics Student | Tech Enthusiast | Web Developer <br> Hi! I'm an undergraduate student at Khulna University, studying Physics. I'm passionate about technology, web development, and programming. I enjoy exploring the intersection of science and technology while building cool projects and learning new skills.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4D12AQFAdOrAQe1HEA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709674661110?e=2147483647&v=beta&t=B7h8ZjJZRcsQ2HEEN5H0dEAvl5dX4I6nUdvFfR24alQ">
