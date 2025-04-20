@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Web-development**
 
-- 🌱 I’m currently learning **html,css,react**
+- 🌱 I’m currently learning **html,css,javascript,react**
 
 - 📫 How to reach me **asifkhanjhk2@gmail.com**
 
